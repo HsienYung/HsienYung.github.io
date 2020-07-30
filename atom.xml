@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HsienYung</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hsienyung.github.io/"/>
+  <updated>2020-07-30T08:06:34.680Z</updated>
+  <id>http://hsienyung.github.io/</id>
+  
+  <author>
+    <name>Hsien Yung</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hell0 World</title>
+    <link href="http://hsienyung.github.io/2020/07/30/Hell-World/"/>
+    <id>http://hsienyung.github.io/2020/07/30/Hell-World/</id>
+    <published>2020-07-30T08:04:16.000Z</published>
+    <updated>2020-07-30T08:06:34.680Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;摘要： Hello world&lt;br&gt;正文： hello
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="hello World" scheme="http://HsienYung.github.io/tags/hello-World/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://hsienyung.github.io/2020/07/30/hello-world/"/>
+    <id>http://hsienyung.github.io/2020/07/30/hello-world/</id>
+    <published>2020-07-30T06:46:58.105Z</published>
+    <updated>2020-07-30T06:46:58.105Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
