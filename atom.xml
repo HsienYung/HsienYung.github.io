@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hsienyung.github.io/"/>
-  <updated>2020-07-31T02:48:13.813Z</updated>
+  <updated>2020-07-31T07:56:51.379Z</updated>
   <id>http://hsienyung.github.io/</id>
   
   <author>
@@ -17,65 +17,28 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>大数据分析</title>
-    <link href="http://hsienyung.github.io/2020/07/31/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
-    <id>http://hsienyung.github.io/2020/07/31/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</id>
-    <published>2020-07-31T02:03:02.000Z</published>
-    <updated>2020-07-31T02:48:13.813Z</updated>
+    <title>test</title>
+    <link href="http://hsienyung.github.io/2020/07/31/test/"/>
+    <id>http://hsienyung.github.io/2020/07/31/test/</id>
+    <published>2020-07-31T07:44:31.000Z</published>
+    <updated>2020-07-31T07:56:51.379Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我想每个人都有过这样的感觉，那种看着一个人的侧脸，&lt;br&gt;然后把心里想说的话在心里说了一遍的感觉，&lt;br&gt;虽然无声，&lt;br&gt;虽然孤独得只有自己知道，&lt;br&gt;但真的很真实。&lt;br&gt;喜欢是一种能力，被喜欢是一种天赋&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
     
     </summary>
     
     
     
-  </entry>
-  
-  <entry>
-    <title>电商后台管理系统</title>
-    <link href="http://hsienyung.github.io/2020/07/31/%E7%94%B5%E5%95%86%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://hsienyung.github.io/2020/07/31/%E7%94%B5%E5%95%86%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
-    <published>2020-07-31T01:31:26.000Z</published>
-    <updated>2020-07-31T06:36:08.436Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;苏州，简称“苏”，古称姑苏、平江，是江苏省地级市，国务院批复确定的中国长江三角洲重要的中心城市之一、国家高新技术产业基地和风景旅游城市-1-。截至2018年，全市下辖5个区、代管4个县级市，总面积8657-32平方千米，常住人口1072-17万人，城镇人口815-39万人，城镇化率76-05-，常住外来人口达538万人。&quot;&gt;&lt;a href=&quot;#苏州，简称“苏”，古称姑苏、平江，是江苏省地级市，国务院批复确定的中国长江三角洲重要的中心城市之一、国家高新技术产业基地和风景旅游城市-1-。截至2018年，全市下辖5个区、代管4个县级市，总面积8657-32平方千米，常住人口1072-17万人，城镇人口815-39万人，城镇化率76-05-，常住外来人口达538万人。&quot; class=&quot;headerlink&quot; title=&quot;苏州，简称“苏”，古称姑苏、平江，是江苏省地级市，国务院批复确定的中国长江三角洲重要的中心城市之一、国家高新技术产业基地和风景旅游城市 [1]  。截至2018年，全市下辖5个区、代管4个县级市，总面积8657.32平方千米，常住人口1072.17万人，城镇人口815.39万人，城镇化率76.05%，常住外来人口达538万人。&quot;&gt;&lt;/a&gt;苏州，简称“苏”，古称姑苏、平江，是江苏省地级市，国务院批复确定的中国长江三角洲重要的中心城市之一、国家高新技术产业基地和风景旅游城市 [1]  。截至2018年，全市下辖5个区、代管4个县级市，总面积8657.32平方千米，常住人口1072.17万人，城镇人口815.39万人，城镇化率76.05%，常住外来人口达538万人。&lt;/h4&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="电商后台" scheme="http://HsienYung.github.io/tags/%E7%94%B5%E5%95%86%E5%90%8E%E5%8F%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>电商管理系统</title>
-    <link href="http://hsienyung.github.io/2020/07/30/hello-world/"/>
-    <id>http://hsienyung.github.io/2020/07/30/hello-world/</id>
-    <published>2020-07-30T06:46:58.105Z</published>
-    <updated>2020-07-31T02:09:04.392Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/one-command-deployment.html&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
+      <category term="test" scheme="http://HsienYung.github.io/tags/test/"/>
     
   </entry>
   
