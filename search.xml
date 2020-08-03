@@ -2,14 +2,47 @@
 <search>
   <entry>
     <title>test</title>
-    <url>/2020/07/31/test/</url>
+    <url>/posts/20200731-undefined.html</url>
     <content><![CDATA[<p>我想每个人都有过这样的感觉，那种看着一个人的侧脸，<br>然后把心里想说的话在心里说了一遍的感觉，</p>
 <a id="more"></a>
 <p>虽然无声，<br>虽然孤独得只有自己知道，<br>但真的很真实。<br>喜欢是一种能力，被喜欢是一种天赋</p>
-<p><img src="/2020/07/31/test/earth.jpg" alt="earth"></p>
+<p><img src="/posts/20200731-undefined.htm/earth.jpg" alt="earth"></p>
 ]]></content>
       <tags>
         <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Axure原型预览如何实现页面标注功能</title>
+    <url>/posts/20200803-readlinetool.html</url>
+    <content><![CDATA[<p>目前有很多原型工具已经具备标注功能，但Axure本地预览还是实现不了。当团队人数不够或者没有设计师时，做出高保真原型发送到程序员之后，无法使用标注功能很令人头疼。<a id="more"></a>所以下面讲下实现的方法。</p>
+<h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><ol>
+<li>注册<a href="https://app.axure.cloud/">Axure Cloud</a>账号，将原型上传到Axure Cloud。<br><img src="https://pic.downk.cc/item/5f27cd3f14195aa594e4bf50.png" alt="注册Axure Cloud"></li>
+<li>点击上传的原型进入项目缩略图列表页，点击“INSPECT”进入标注页面，点击页面元素查看标注。</li>
+</ol>
+<p><img src="https://pic.downk.cc/item/5f27cd3f14195aa594e4bf52.png" alt="查看项目"></p>
+<p><img src="https://pic.downk.cc/item/5f27cd3f14195aa594e4bf54.png" alt="点击批注"></p>
+<p><img src="https://pic.downk.cc/item/5f27d5ac14195aa594e7777e.png" alt="查看批注"></p>
+<blockquote>
+<p>但因为Axure Cloud的服务器在国外，所以国内访问的会很慢，使用体验很差，建议用方法二。</p>
+</blockquote>
+<h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><p>通过Github上面的大神制作的脚本实现类似于官网的标注功能。<br><a href="https://github.com/srm985/axure-redline-tool">GitHub地址</a></p>
+<p>脚本链接</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;script src&#x3D;&quot;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;axure-redline-tool@latest&#x2F;web&#x2F;axure-redline-plugin.js&quot;&gt;&lt;&#x2F;script&gt;</span><br></pre></td></tr></table></figure>
+<p>该脚本已经被我制作成元件，可以通过元件的形式直接拖入原型内使用。</p>
+<p>组件下载链接：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;pan.baidu.com&#x2F;s&#x2F;1zg4jjq2HX85fnZ5bQLwFxA </span><br><span class="line">提取码：3ban</span><br></pre></td></tr></table></figure>
+<p>下载完成之后添加到元件库即可。</p>
+<p><img src="https://pic.downk.cc/item/5f27d89014195aa594e868fe.png" alt="元件"></p>
+<h6 id="元件默认隐藏状态，点击预览时将不会在页面上显示。"><a href="#元件默认隐藏状态，点击预览时将不会在页面上显示。" class="headerlink" title="元件默认隐藏状态，点击预览时将不会在页面上显示。"></a>元件默认隐藏状态，点击预览时将不会在页面上显示。</h6><p><img src="https://pic.downk.cc/item/5f27d89014195aa594e86900.png" alt="标注"></p>
+<h6 id="查看预览标注"><a href="#查看预览标注" class="headerlink" title="查看预览标注"></a>查看预览标注</h6><p>如果有什么问题可以留言告诉我！</p>
+]]></content>
+      <categories>
+        <category>Axure</category>
+      </categories>
+      <tags>
+        <tag>Axure</tag>
+        <tag>原型</tag>
       </tags>
   </entry>
 </search>
