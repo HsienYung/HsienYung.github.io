@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://hsienyung.github.io/posts/20200731-undefined.html</loc>
-    
-    <lastmod>2020-08-02</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hsienyung.github.io/about/index.html</loc>
     
     <lastmod>2020-08-02</lastmod>
@@ -30,13 +23,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://hsienyung.github.io/tags/test/</loc>
-    <lastmod>2020-08-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://hsienyung.github.io/tags/Axure/</loc>

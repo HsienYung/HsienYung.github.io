@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hsienyung.github.io/"/>
-  <updated>2020-08-03T09:33:49.188Z</updated>
+  <updated>2020-08-03T09:56:37.651Z</updated>
   <id>http://hsienyung.github.io/</id>
   
   <author>
@@ -17,15 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Axure原型预览如何实现页面标注功能</title>
+    <title>Axure原型预览实现页面标注功能</title>
     <link href="http://hsienyung.github.io/posts/20200803-readlinetool.html"/>
     <id>http://hsienyung.github.io/posts/20200803-readlinetool.html</id>
     <published>2020-08-03T07:14:45.000Z</published>
-    <updated>2020-08-03T09:33:49.188Z</updated>
+    <updated>2020-08-03T09:56:37.651Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;目前有很多原型工具已经具备标注功能，但Axure本地预览还是实现不了。当团队人数不够或者没有设计师时，做出高保真原型发送到程序员之后，无法使用标注功能很令人头疼。&lt;/p&gt;
+      &lt;p&gt;目前有很多原型工具已经具备标注功能，但Axure本地预览还是实现不了。当团队人数不够或者没有设计师时，做出高保真原型发送到程序员之后，无法使用标注功能很令人头疼。
     
     </summary>
     
@@ -36,25 +36,6 @@
       <category term="Axure" scheme="http://HsienYung.github.io/tags/Axure/"/>
     
       <category term="原型" scheme="http://HsienYung.github.io/tags/%E5%8E%9F%E5%9E%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://hsienyung.github.io/posts/20200731-undefined.html"/>
-    <id>http://hsienyung.github.io/posts/20200731-undefined.html</id>
-    <published>2020-07-31T07:44:31.000Z</published>
-    <updated>2020-08-02T15:30:51.460Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;我想每个人都有过这样的感觉，那种看着一个人的侧脸，&lt;br&gt;然后把心里想说的话在心里说了一遍的感觉，&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="test" scheme="http://HsienYung.github.io/tags/test/"/>
     
   </entry>
   

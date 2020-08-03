@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/posts/20200731-undefined.html</url>
-    <content><![CDATA[<p>我想每个人都有过这样的感觉，那种看着一个人的侧脸，<br>然后把心里想说的话在心里说了一遍的感觉，</p>
-<a id="more"></a>
-<p>虽然无声，<br>虽然孤独得只有自己知道，<br>但真的很真实。<br>喜欢是一种能力，被喜欢是一种天赋</p>
-<p><img src="/posts/20200731-undefined.htm/earth.jpg" alt="earth"></p>
-]]></content>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Axure原型预览如何实现页面标注功能</title>
+    <title>Axure原型预览实现页面标注功能</title>
     <url>/posts/20200803-readlinetool.html</url>
     <content><![CDATA[<p>目前有很多原型工具已经具备标注功能，但Axure本地预览还是实现不了。当团队人数不够或者没有设计师时，做出高保真原型发送到程序员之后，无法使用标注功能很令人头疼。<a id="more"></a>所以下面讲下实现的方法。</p>
 <h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><ol>
@@ -33,9 +21,9 @@
 <p>组件下载链接：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;pan.baidu.com&#x2F;s&#x2F;1zg4jjq2HX85fnZ5bQLwFxA </span><br><span class="line">提取码：3ban</span><br></pre></td></tr></table></figure>
 <p>下载完成之后添加到元件库即可。</p>
-<p><img src="https://pic.downk.cc/item/5f27d89014195aa594e868fe.png" alt="元件"></p>
-<h6 id="元件默认隐藏状态，点击预览时将不会在页面上显示。"><a href="#元件默认隐藏状态，点击预览时将不会在页面上显示。" class="headerlink" title="元件默认隐藏状态，点击预览时将不会在页面上显示。"></a>元件默认隐藏状态，点击预览时将不会在页面上显示。</h6><p><img src="https://pic.downk.cc/item/5f27d89014195aa594e86900.png" alt="标注"></p>
-<h6 id="查看预览标注"><a href="#查看预览标注" class="headerlink" title="查看预览标注"></a>查看预览标注</h6><p>如果有什么问题可以留言告诉我！</p>
+<p><img src="https://pic.downk.cc/item/5f27d89014195aa594e868fe.png" alt="元件默认隐藏状态，点击预览时将不会在页面上显示"></p>
+<p><img src="https://pic.downk.cc/item/5f27d89014195aa594e86900.png" alt="查看预览标注"></p>
+<p>如果有什么问题可以留言告诉我！</p>
 ]]></content>
       <categories>
         <category>Axure</category>
