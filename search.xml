@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>电商后台管理系统高保真原型</title>
-    <url>/posts/20210413-eshop.html</url>
-    <content><![CDATA[<p>电商后台管理系统高保真原型，目前完成了首页、店铺、商城、数据等模块功能，其它功能会在后续完善<a id="more"></a></p>
-<h3 id="电商后台管理系统高保真原型-点击预览原型"><a href="#电商后台管理系统高保真原型-点击预览原型" class="headerlink" title="电商后台管理系统高保真原型 点击预览原型"></a>电商后台管理系统高保真原型 <a href="https://coding-pages-bucket-69379-7904145-7861-416572-1303381175.cos-website.ap-hongkong.myqcloud.com/">点击预览原型</a></h3><h4 id="首页"><a href="#首页" class="headerlink" title="首页"></a>首页</h4><p><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8985.png" alt="首页"></p>
-<h4 id="店铺"><a href="#店铺" class="headerlink" title="店铺"></a>店铺</h4><p><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8988.png" alt="店铺"></p>
-<h4 id="商品"><a href="#商品" class="headerlink" title="商品"></a>商品</h4><p><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d898c.png" alt="商品"><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8996.png" alt="发布商品"></p>
-<h4 id="数据"><a href="#数据" class="headerlink" title="数据"></a>数据</h4><p><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d899e.png" alt="数据"></p>
-<blockquote>
-<p>如果有什么问题可以留言告诉我！</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Axure</category>
-      </categories>
-      <tags>
-        <tag>商城</tag>
-        <tag>原型</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Axure原型预览实现页面标注功能</title>
     <url>/posts/20200803-readlinetool.html</url>
     <content><![CDATA[<p>目前有很多原型工具已经具备标注功能，但Axure本地预览还是实现不了。当团队人数不够或者没有设计师时，做出高保真原型发送到程序员之后，无法使用标注功能很令人头疼。<a id="more"></a>所以下面讲下实现的方法。</p>
@@ -49,8 +29,28 @@
         <category>Axure</category>
       </categories>
       <tags>
-        <tag>原型</tag>
         <tag>Axure</tag>
+        <tag>原型</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电商后台管理系统高保真原型</title>
+    <url>/posts/20210413-eshop.html</url>
+    <content><![CDATA[<p>电商后台管理系统高保真原型，目前完成了首页、店铺、商城、数据等模块功能，其它功能会在后续完善<a id="more"></a></p>
+<h3 id="电商后台管理系统高保真原型-点击预览原型"><a href="#电商后台管理系统高保真原型-点击预览原型" class="headerlink" title="电商后台管理系统高保真原型 点击预览原型"></a>电商后台管理系统高保真原型 <a href="https://coding-pages-bucket-69379-7904145-7861-416572-1303381175.cos-website.ap-hongkong.myqcloud.com/">点击预览原型</a></h3><h4 id="首页"><a href="#首页" class="headerlink" title="首页"></a>首页</h4><p><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8985.png" alt="首页"></p>
+<h4 id="店铺"><a href="#店铺" class="headerlink" title="店铺"></a>店铺</h4><p><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8988.png" alt="店铺"></p>
+<h4 id="商品"><a href="#商品" class="headerlink" title="商品"></a>商品</h4><p><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d898c.png" alt="商品"><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8996.png" alt="发布商品"></p>
+<h4 id="数据"><a href="#数据" class="headerlink" title="数据"></a>数据</h4><p><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d899e.png" alt="数据"></p>
+<blockquote>
+<p>如果有什么问题可以留言告诉我！</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Axure</category>
+      </categories>
+      <tags>
+        <tag>原型</tag>
+        <tag>商城</tag>
       </tags>
   </entry>
   <entry>
@@ -67,8 +67,8 @@
         <category>Axure</category>
       </categories>
       <tags>
-        <tag>商城</tag>
         <tag>原型</tag>
+        <tag>商城</tag>
       </tags>
   </entry>
 </search>
