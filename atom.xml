@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hsienyung.github.io/"/>
-  <updated>2021-04-13T13:46:27.494Z</updated>
+  <updated>2021-04-13T15:47:39.102Z</updated>
   <id>http://hsienyung.github.io/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://hsienyung.github.io/posts/20210413-eshop.html"/>
     <id>http://hsienyung.github.io/posts/20210413-eshop.html</id>
     <published>2021-04-13T12:20:20.000Z</published>
-    <updated>2021-04-13T13:46:27.494Z</updated>
+    <updated>2021-04-13T15:47:39.102Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;电商后台管理系统高保真原型，目前完成了首页、店铺、商城、数据等模块功能，其它功能会在后续完善
+      &lt;p&gt;此原型参考有赞微商城SaaS系统企业用户后台设计制作，主要用于业余时间学习电商后台系统各个功能模块业务逻辑；目前已设计完成首页、店铺、商城、数据等模块功能，其它功能模块后续会逐步完善
     
     </summary>
     
@@ -40,15 +40,38 @@
   </entry>
   
   <entry>
+    <title>筑牛联采数字化系统</title>
+    <link href="http://hsienyung.github.io/posts/20210413-zhuniu.html"/>
+    <id>http://hsienyung.github.io/posts/20210413-zhuniu.html</id>
+    <published>2021-04-13T11:30:30.000Z</published>
+    <updated>2021-04-13T15:47:57.869Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;建材行业B2B采供平台
+    
+    </summary>
+    
+    
+      <category term="Axure" scheme="http://HsienYung.github.io/categories/Axure/"/>
+    
+    
+      <category term="原型" scheme="http://HsienYung.github.io/tags/%E5%8E%9F%E5%9E%8B/"/>
+    
+      <category term="筑牛" scheme="http://HsienYung.github.io/tags/%E7%AD%91%E7%89%9B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>七乐乐-微信分销商城</title>
     <link href="http://hsienyung.github.io/posts/20210413-qilele-eshop.html"/>
     <id>http://hsienyung.github.io/posts/20210413-qilele-eshop.html</id>
     <published>2021-04-13T11:20:20.000Z</published>
-    <updated>2021-04-13T13:46:06.863Z</updated>
+    <updated>2021-04-13T14:59:46.178Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;七乐乐-微信分销商城
+      &lt;p&gt;此原型使用墨刀设计，为七乐乐-微信分销商城-我的小店1.0版本；主要功能有首页、特麦会、淘宝区、热卖区、本地商品、人气榜、大牌甄选、领券、我的店铺、限时抢购、砍价
     
     </summary>
     
@@ -59,6 +82,29 @@
       <category term="原型" scheme="http://HsienYung.github.io/tags/%E5%8E%9F%E5%9E%8B/"/>
     
       <category term="商城" scheme="http://HsienYung.github.io/tags/%E5%95%86%E5%9F%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在线问诊移动端</title>
+    <link href="http://hsienyung.github.io/posts/20210413-ask-doctor.html"/>
+    <id>http://hsienyung.github.io/posts/20210413-ask-doctor.html</id>
+    <published>2021-04-13T10:20:20.000Z</published>
+    <updated>2021-04-13T15:16:21.678Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本原型是骨松专家在线问诊平台；主要功能有首页、咨询、圈子、我的、热门动态、专家讲堂、社区活动等
+    
+    </summary>
+    
+    
+      <category term="Axure" scheme="http://HsienYung.github.io/categories/Axure/"/>
+    
+    
+      <category term="原型" scheme="http://HsienYung.github.io/tags/%E5%8E%9F%E5%9E%8B/"/>
+    
+      <category term="在线问诊" scheme="http://HsienYung.github.io/tags/%E5%9C%A8%E7%BA%BF%E9%97%AE%E8%AF%8A/"/>
     
   </entry>
   

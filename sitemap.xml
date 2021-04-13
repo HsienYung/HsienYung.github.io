@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hsienyung.github.io/posts/20210413-zhuniu.html</loc>
+    
+    <lastmod>2021-04-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hsienyung.github.io/posts/20210413-eshop.html</loc>
+    
+    <lastmod>2021-04-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hsienyung.github.io/posts/20210413-ask-doctor.html</loc>
     
     <lastmod>2021-04-13</lastmod>
     
@@ -54,6 +68,20 @@
   
   <url>
     <loc>http://hsienyung.github.io/tags/%E5%95%86%E5%9F%8E/</loc>
+    <lastmod>2021-04-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsienyung.github.io/tags/%E5%9C%A8%E7%BA%BF%E9%97%AE%E8%AF%8A/</loc>
+    <lastmod>2021-04-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hsienyung.github.io/tags/%E7%AD%91%E7%89%9B/</loc>
     <lastmod>2021-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
