@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hsienyung.github.io/"/>
-  <updated>2020-08-05T05:55:43.955Z</updated>
+  <updated>2021-04-13T12:41:50.257Z</updated>
   <id>http://hsienyung.github.io/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>电商后台管理系统高保真原型</title>
+    <link href="http://hsienyung.github.io/posts/20210413-eshop.html"/>
+    <id>http://hsienyung.github.io/posts/20210413-eshop.html</id>
+    <published>2021-04-13T12:20:20.000Z</published>
+    <updated>2021-04-13T12:41:50.257Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;电商后台管理系统高保真原型，目前完成了首页、店铺、商城、数据等模块功能，其它功能会在后续完善
+    
+    </summary>
+    
+    
+      <category term="Axure" scheme="http://HsienYung.github.io/categories/Axure/"/>
+    
+    
+      <category term="商城" scheme="http://HsienYung.github.io/tags/%E5%95%86%E5%9F%8E/"/>
+    
+      <category term="原型" scheme="http://HsienYung.github.io/tags/%E5%8E%9F%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>七乐乐-微信分销商城</title>
+    <link href="http://hsienyung.github.io/posts/20210413-qilele-eshop.html"/>
+    <id>http://hsienyung.github.io/posts/20210413-qilele-eshop.html</id>
+    <published>2021-04-13T11:20:20.000Z</published>
+    <updated>2021-04-13T13:13:41.973Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;七乐乐-微信分销商城
+    
+    </summary>
+    
+    
+      <category term="Axure" scheme="http://HsienYung.github.io/categories/Axure/"/>
+    
+    
+      <category term="商城" scheme="http://HsienYung.github.io/tags/%E5%95%86%E5%9F%8E/"/>
+    
+      <category term="原型" scheme="http://HsienYung.github.io/tags/%E5%8E%9F%E5%9E%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Axure原型预览实现页面标注功能</title>
@@ -33,9 +79,9 @@
       <category term="Axure" scheme="http://HsienYung.github.io/categories/Axure/"/>
     
     
-      <category term="Axure" scheme="http://HsienYung.github.io/tags/Axure/"/>
-    
       <category term="原型" scheme="http://HsienYung.github.io/tags/%E5%8E%9F%E5%9E%8B/"/>
+    
+      <category term="Axure" scheme="http://HsienYung.github.io/tags/Axure/"/>
     
   </entry>
   
