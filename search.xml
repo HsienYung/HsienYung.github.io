@@ -34,30 +34,6 @@
       </tags>
   </entry>
   <entry>
-    <title>电商后台管理系统高保真原型</title>
-    <url>/posts/20210413-eshop.html</url>
-    <content><![CDATA[<p>此原型参考有赞微商城SaaS系统企业用户后台设计制作，主要用于业余时间学习电商后台系统各个功能模块业务逻辑；目前已设计完成首页、店铺、商城、数据等模块功能，其它功能模块后续会逐步完善<a id="more"></a></p>
-<p><strong><a href="https://coding-pages-bucket-69379-7904145-7861-416572-1303381175.cos-website.ap-hongkong.myqcloud.com/">点击预览原型</a></strong></p>
-<ol>
-<li><p><strong>首页</strong><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8985.png" alt="首页"></p>
-</li>
-<li><p><strong>店铺</strong><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8988.png" alt="店铺"></p>
-</li>
-<li><p><strong>商品</strong><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d898c.png" alt="商品"><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8996.png" alt="发布商品"></p>
-</li>
-<li><p><strong>数据</strong><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d899e.png" alt="数据"></p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>Axure</category>
-      </categories>
-      <tags>
-        <tag>原型</tag>
-        <tag>商城</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在线问诊移动端</title>
     <url>/posts/20210413-ask-doctor.html</url>
     <content><![CDATA[<p>本原型是骨松专家在线问诊平台；主要功能有首页、咨询、圈子、我的、热门动态、专家讲堂、社区活动等<a id="more"></a></p>
@@ -79,6 +55,30 @@
       <tags>
         <tag>原型</tag>
         <tag>在线问诊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>电商后台管理系统高保真原型</title>
+    <url>/posts/20210413-eshop.html</url>
+    <content><![CDATA[<p>此原型参考有赞微商城SaaS系统企业用户后台设计制作，主要用于业余时间学习电商后台系统各个功能模块业务逻辑；目前已设计完成首页、店铺、商城、数据等模块功能，其它功能模块后续会逐步完善<a id="more"></a></p>
+<p><strong><a href="https://coding-pages-bucket-69379-7904145-7861-416572-1303381175.cos-website.ap-hongkong.myqcloud.com/">点击预览原型</a></strong></p>
+<ol>
+<li><p><strong>首页</strong><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8985.png" alt="首页"></p>
+</li>
+<li><p><strong>店铺</strong><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8988.png" alt="店铺"></p>
+</li>
+<li><p><strong>商品</strong><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d898c.png" alt="商品"><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d8996.png" alt="发布商品"></p>
+</li>
+<li><p><strong>数据</strong><br><img src="https://pic.imgdb.cn/item/60758ef18322e6675c5d899e.png" alt="数据"></p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Axure</category>
+      </categories>
+      <tags>
+        <tag>原型</tag>
+        <tag>商城</tag>
       </tags>
   </entry>
   <entry>
